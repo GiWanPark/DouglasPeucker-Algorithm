@@ -15,3 +15,4 @@ the algorithm is,
  2. find the fartest point from the line.
  3. if the fartest point is over the epsilon, remove the point.
  
+I also uploaded the animation of the algorithm. I hope it will help you.
