@@ -1,5 +1,5 @@
 # DouglasPeucker-Algorithm
-The source code of DouglasPeucker Algorithm in C++.
+source code of DouglasPeucker Algorithm in C++.
 
 This algorithm is to simplify polyline. remove some points which are in a road.
 
